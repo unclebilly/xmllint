@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "XMLLint: Prettify XML",
+    "command": "xmllint"
+  }
+]
